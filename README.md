@@ -42,8 +42,11 @@ c. **Install Git, Python 3 + pip**:
  ```bash
   git
    ```  
-[Commands](images/Install_Git_Python3_pip.png)
-[Commands](images/Git_terminal.png)
+[Command B](images/Updating_OS.png)
+
+[Command C Part 1](images/Install_Git_Python3_pip.png)
+
+[Command C Part 2](images/Git_terminal.png)
 
 > [!NOTE]
 > **Please note that if you come across issues with a command, simplyfying the command will work.**
