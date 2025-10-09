@@ -19,7 +19,7 @@
  
 
 [Create VM Part #1](images/Create_vm_1.png)
-[Create VM Part #2](images/Create_vm_2)
+[Create VM Part #2](images/Create_vm_2.png)
 
 ### 2. Networking (Port 5003 Open)
 **Open port 5003**:  
@@ -27,7 +27,7 @@
    -   **Destination:** 5003
    -   **Protocol:** Any
        
-[Port 5003 Open](images/Networking_Port5003_Open)
+[Port 5003 Open](images/Networking_Port5003_Open.png)
 
 ### 3. OS Update + Python Install
 a. **SSH into your VM** (terminal).  
@@ -42,8 +42,8 @@ c. **Install Git, Python 3 + pip**:
  ```bash
   git
    ```  
-[Commands](images/Install_Git_Python3_pip)
-[Commands](images/Git_terminal)
+[Commands](images/Install_Git_Python3_pip.png)
+[Commands](images/Git_terminal.png)
 
 ### 4. Flask App Running
 1. **Copy the Flask template**:  
@@ -72,10 +72,10 @@ c. **Install Git, Python 3 + pip**:
 > Please note that if you come across an issue with a command, simplyfying the command will work.
 
 
-[Flask Terminal](images/Flask_Running_Terminal) 
-[Flask Browser](images/Flask_Running_Browser)
+[Flask Terminal](images/Flask_Running_Terminal.png) 
+[Flask Browser](images/Flask_Running_Browser.png)
 
 ### 5. Public IP Access
 URL: http://20.64.253.35:5003
 
-[Public IP Address](images/Public_IP_Access)
+[Public IP Address](images/Public_IP_Access.png)
