@@ -1,8 +1,8 @@
 # Flask on Cloud VM (Assignment 2)
 
 ## Student Info
-- Name: Melissa Espinal
-- Cloud Provider: Microsoft Azure
+- **Name:** Melissa Espinal
+- **Cloud Provider:** Microsoft Azure
 
 ## Video recording: 
 **Recording:** [Watch on Loom](https://www.loom.com/share/5afe75e55cb040a8808220a6fbf9240d?sid=cc8a2949-0419-4d98-a609-9e9ed3314912)
@@ -13,9 +13,9 @@
    - **Region:** (US) West 2
    - **Zone Option:** Azure- selected zone (Preview)
    - **Image:** Ubuntu LTS
-   - Public IP assigned
+   - **Public IP assigned**
 > [!TIP]
-> Choose the smallest/free tier size. In this case the Standard B-series.
+> **Choose the smallest/free tier size. In this case the Standard B-series.**
  
 
 [Create VM Part #1](images/Create_vm_1.png)
@@ -72,7 +72,7 @@ c. **Install Git, Python 3 + pip**:
 [Flask Browser](images/Flask_Running_Browser.png)
 
 > [!NOTE]
-> Please note that if you come across an issue with a command, simplyfying the command will work.
+> **Please note that if you come across an issue with a command, simplyfying the command will work.**
 
 ### 5. Public IP Access
 URL: http://20.64.253.35:5003
