@@ -18,8 +18,8 @@
 > Choose the smallest/free tier size. In this case the Standard B-series.
  
 
-[Create VM Part #1](images/create_vm_1)
-[Create VM Part #2](images/create_vm_2)
+[Create VM Part #1](images/Create_vm_1)
+[Create VM Part #2](images/Create_vm_2)
 
 ### 2. Networking (Port 5003 Open)
 **Open port 5003**:  
