@@ -46,12 +46,36 @@ c. **Install Git, Python 3 + pip**:
 [Commands](images/Git_terminal)
 
 ### 4. Flask App Running
-[screenshot of terminal + browser]
+1. **Copy the Flask template**:  
+   ```bash
+   git clone https://github.com/hantswilliams/HHA-504-2025-FlaskStarter.git
+   cd flask_template
+   ```  
+    Create new virutal environment: 
+    ```
+    python3 -m venv venv
+    ```
+    Then activate virtual environment:
+    ```
+    source venv/bin/activate
+    ```
+    Install: 
+    ```
+    pip install -r requirements.txt
+    ``` 
+2. **Run the app on port 5003**:  
+   ```bash
+   python3 app.py
+   ```  
+
+> [!NOTE]
+> Please note that if you come across an issue with a command, simplyfying the command will work.
+
+
+[Flask Terminal](images/Flask_Running_Terminal) 
+[Flask Browser](images/Flask_Running_Browser)
 
 ### 5. Public IP Access
-URL: http://XX.XX.XXX.XXX:5003  
-[screenshot]
+URL: http://20.64.253.35:5003
 
-### 6. (Bonus) Domain Name
-Domain: http://mydomain.tech:5003  
-[screenshot]
+[Public IP Address](images/Public_IP_Access)
