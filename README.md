@@ -45,6 +45,9 @@ c. **Install Git, Python 3 + pip**:
 [Commands](images/Install_Git_Python3_pip.png)
 [Commands](images/Git_terminal.png)
 
+> [!NOTE]
+> **Please note that if you come across issues with a command, simplyfying the command will work.**
+
 ### 4. Flask App Running
 1. **Copy the Flask template**:  
    ```bash
@@ -71,8 +74,6 @@ c. **Install Git, Python 3 + pip**:
 [Flask Terminal](images/Flask_Running_Terminal.png) 
 [Flask Browser](images/Flask_Running_Browser.png)
 
-> [!NOTE]
-> **Please note that if you come across an issue with a command, simplyfying the command will work.**
 
 ### 5. Public IP Access
 URL: http://20.64.253.35:5003
